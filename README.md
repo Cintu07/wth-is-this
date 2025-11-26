@@ -170,7 +170,7 @@ Pull requests welcome! For major changes, please open an issue first.
 
 ## 📄 License
 
-MIT © Cintu07
+MIT © Pawan
 
 ## 💡 Why This Exists
 

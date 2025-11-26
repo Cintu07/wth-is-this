@@ -1,0 +1,32 @@
+{
+  "name": "wth-is-this",
+  "version": "1.0.0",
+  "description": "Explain any project folder like you're 5",
+  "main": "index.js",
+  "bin": {
+    "wth": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "project-analyzer",
+    "developer-tools"
+  ],
+  "author": "Cintu07",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cintu07/wth-is-this.git"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2",
+    "ora": "^5.4.1",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.7.0",
+    "simple-git": "^3.21.0"
+  }
+}
